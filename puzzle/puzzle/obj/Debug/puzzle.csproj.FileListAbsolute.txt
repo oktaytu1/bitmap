@@ -1,0 +1,20 @@
+C:\Users\Ali ÇELEBİ\Desktop\visual studio 2013 çalışmalarım\puzzle\puzzle\bin\Debug\puzzle.exe.config
+C:\Users\Ali ÇELEBİ\Desktop\visual studio 2013 çalışmalarım\puzzle\puzzle\bin\Debug\puzzle.exe
+C:\Users\Ali ÇELEBİ\Desktop\visual studio 2013 çalışmalarım\puzzle\puzzle\bin\Debug\puzzle.pdb
+C:\Users\Ali ÇELEBİ\Desktop\visual studio 2013 çalışmalarım\puzzle\puzzle\obj\Debug\puzzle.csprojResolveAssemblyReference.cache
+C:\Users\Ali ÇELEBİ\Desktop\visual studio 2013 çalışmalarım\puzzle\puzzle\obj\Debug\puzzle.Form1.resources
+C:\Users\Ali ÇELEBİ\Desktop\visual studio 2013 çalışmalarım\puzzle\puzzle\obj\Debug\puzzle.Properties.Resources.resources
+C:\Users\Ali ÇELEBİ\Desktop\visual studio 2013 çalışmalarım\puzzle\puzzle\obj\Debug\puzzle.csproj.GenerateResource.Cache
+C:\Users\Ali ÇELEBİ\Desktop\visual studio 2013 çalışmalarım\puzzle\puzzle\obj\Debug\puzzle.exe
+C:\Users\Ali ÇELEBİ\Desktop\visual studio 2013 çalışmalarım\puzzle\puzzle\obj\Debug\puzzle.pdb
+C:\Users\oktay\Desktop\Oktay\kod\puzzle\puzzle\bin\Debug\puzzle.exe.config
+C:\Users\oktay\Desktop\Oktay\kod\puzzle\puzzle\bin\Debug\puzzle.exe
+C:\Users\oktay\Desktop\Oktay\kod\puzzle\puzzle\bin\Debug\puzzle.pdb
+C:\Users\oktay\Desktop\Oktay\kod\puzzle\puzzle\obj\Debug\puzzle.csproj.AssemblyReference.cache
+C:\Users\oktay\Desktop\Oktay\kod\puzzle\puzzle\obj\Debug\puzzle.csproj.SuggestedBindingRedirects.cache
+C:\Users\oktay\Desktop\Oktay\kod\puzzle\puzzle\obj\Debug\puzzle.Form1.resources
+C:\Users\oktay\Desktop\Oktay\kod\puzzle\puzzle\obj\Debug\puzzle.Properties.Resources.resources
+C:\Users\oktay\Desktop\Oktay\kod\puzzle\puzzle\obj\Debug\puzzle.csproj.GenerateResource.cache
+C:\Users\oktay\Desktop\Oktay\kod\puzzle\puzzle\obj\Debug\puzzle.csproj.CoreCompileInputs.cache
+C:\Users\oktay\Desktop\Oktay\kod\puzzle\puzzle\obj\Debug\puzzle.exe
+C:\Users\oktay\Desktop\Oktay\kod\puzzle\puzzle\obj\Debug\puzzle.pdb
